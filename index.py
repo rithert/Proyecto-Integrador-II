@@ -22,6 +22,6 @@ try:
     print("ingresado valores en la BD")
 except:
     print("Valores no ingresados")
-
+print("Proyecto II")
 conexion.close()
-print("Ingreso jhh")
+
